@@ -1,0 +1,10 @@
+# Python-specific files to ignore
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Operating System files (Windows)
+Thumbs.db
